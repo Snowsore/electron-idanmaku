@@ -1,0 +1,3 @@
+# electron-idanmaku
+
+Idanmaku electron :)
